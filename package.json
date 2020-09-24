@@ -2,7 +2,7 @@
   "name": "nodeJS-helloworld",
   "version": "1.0.0",
   "description": "A Node.JS/express hello world application",
-  "main": "app.js",
+  "main": "server.js",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
